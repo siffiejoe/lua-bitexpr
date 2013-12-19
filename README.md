@@ -55,7 +55,7 @@ print( X" 9>>2 "() )  --> right shift, prints 2
 print( X" 5<<1 "() )  --> left shift, prints 10
 ```
 
-Operator preference is the same as in C, and you can use parentheses
+Operator precedence is the same as in C, and you can use parentheses
 for grouping.
 
 ```lua
